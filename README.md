@@ -13,7 +13,7 @@
 ### 
 <h4 align="left">
 ✨ Hello World! I'm a B.Tech student & passionate full-stack developer turning ideas into digital reality.  
-<br>🌍 Based in Nuzvidu, exploring the world of tech with curiosity.  
+<br>🌍 Based in Vijayawada, exploring the world of tech with curiosity.  
 <br><br>🔧 Tech I'm currently loving: **[React | Node.js | MongoDB | Python | TensorFlow]**  
 <br>📚 Obsessed with clean code, beautiful UX, and lifelong learning.  
 <br><br>🧠 "Coding dreams and building themes — see what I’m working on! 💫"  
